@@ -1,0 +1,8 @@
+{
+  "name": "webuntis",
+  "version": "1.0.0",
+  "dependencies": {
+    "request": "^2.88.2",
+    "exceljs": "^4.3.0"
+  }
+}

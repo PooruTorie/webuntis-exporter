@@ -1,6 +1,9 @@
 {
   "name": "webuntis",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "request": "^2.88.2",
     "exceljs": "^4.3.0"
